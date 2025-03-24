@@ -35,3 +35,6 @@ True Positives (Spam correctly classified)
 False Negatives (Spam misclassified as Ham)
 False Positives (Ham misclassified as Spam)
 Classification Report summarizes precision, recall, and F1-score for both spam and ham emails.
+
+#OUTPUT:
+![Image](https://github.com/user-attachments/assets/96e651f8-2c5b-4a37-a99a-42502746b42e)
